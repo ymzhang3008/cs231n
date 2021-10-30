@@ -1,0 +1,4 @@
+__pycache__/
+*/__pychache__/
+*.so
+.ipynb_checkpoints
